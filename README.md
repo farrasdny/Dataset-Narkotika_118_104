@@ -2,7 +2,7 @@
 Farras Danyka Putra  - 202010370311118, Azzahry Dwi Pramudio - 202010370311104
 
 # About Dataset
-Dataset ini adalah dataset Putusan Mahkamah Agung mengenai Kasus Narkotika dan Psikotropika di Pengadilan Negeri Pontianak. Dataset ini diambil dari direktori situs putusan mahkamah agung pada direktori pidana khusus dan klasifikasi narkotika dan psikotropika.  Dataset ini berisi 50 instance atau 50 putusan mahkamah agung dari pengadilan negeri pontianak dan mencakup beberapa atribut penting diantaranya sebagai berikut
+Dataset ini adalah dataset [Putusan Mahkamah Agung mengenai Kasus Narkotika dan Psikotropika di Pengadilan Negeri Pontianak] (https://github.com/farrasdny/Dataset-Narkotika_118_104/tree/main/Dataset). Dataset ini diambil dari direktori situs putusan mahkamah agung pada direktori pidana khusus dan klasifikasi narkotika dan psikotropika.  Dataset ini berisi 50 instance atau 50 putusan mahkamah agung dari pengadilan negeri pontianak dan mencakup beberapa atribut penting diantaranya sebagai berikut
 
 
 * **Nomor Putusan**      =  Identifikasi unik atau kode angka yang diberikan untuk mengidentifikasi sebuah keputusan pengadilan atau putusan hakim dalam suatu perkara hukum.
